@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">VacationOnEarth</string>
+    <string name="main_header">Space travel agency</string>
+    <string name="main_claim">Travel with us to one of the most lucrative localities in the universe.</string>
+    <string name="trending">Currently trending: Earth</string>
+    <string name="earth_claim">Enjoy your vacation on one of the most hostile planets in the Solar system.</string>
+    <string name="nationalities">Over 200 nationalities</string>
+    <string name="languages">Almost 7000 distinct languages</string>
+    <string name="hours">24 hours per day</string>
+    <string name="seasons">4 different seasons</string>
+    <string name="contact_number">SOL-225-3XZ7-550</string>
+</resources>
