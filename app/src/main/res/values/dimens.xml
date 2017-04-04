@@ -7,6 +7,6 @@
     <dimen name="title_margins">10sp</dimen>
     <dimen name="title_size_trending">20sp</dimen>
     <dimen name="earth_height">185dp</dimen>
-    <dimen name="earth_margin">15sp</dimen>
+    <dimen name="earth_margin">20sp</dimen>
     <dimen name="icon_size">35dp</dimen>
 </resources>

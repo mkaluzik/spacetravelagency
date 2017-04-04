@@ -121,12 +121,12 @@ android:layout_marginTop="@dimen/title_margins"
             <ImageView
                 android:layout_width="@dimen/icon_size"
                 android:layout_height="@dimen/icon_size"
-                android:src="@drawable/a022" />
+                android:src="@drawable/a162" />
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_vertical"
-                android:text="4 different seasons"
+                android:text="@string/seasons"
                 android:textColor="@color/silver"/>
         </LinearLayout>
 
@@ -147,5 +147,12 @@ android:layout_marginTop="@dimen/title_margins"
                 android:textColor="@color/silver"/>
         </LinearLayout>
 
+
 </LinearLayout>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/order"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="@dimen/earth_margin"/>
 </LinearLayout>
