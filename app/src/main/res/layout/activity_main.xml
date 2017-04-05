@@ -154,5 +154,6 @@ android:layout_marginTop="@dimen/title_margins"
         android:layout_height="wrap_content"
         android:text="@string/order"
         android:layout_gravity="center_horizontal"
-        android:layout_marginTop="@dimen/earth_margin"/>
+        android:layout_marginTop="@dimen/earth_margin"
+        android:onClick="submitOrder"/>
 </LinearLayout>
