@@ -3,10 +3,10 @@
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="header_text_size">27sp</dimen>
-    <dimen name="bottom_padding_titles">10sp</dimen>
-    <dimen name="title_margins">10sp</dimen>
+    <dimen name="bottom_padding_titles">10dp</dimen>
+    <dimen name="title_margins">10dp</dimen>
     <dimen name="title_size_trending">20sp</dimen>
     <dimen name="earth_height">185dp</dimen>
-    <dimen name="earth_margin">20sp</dimen>
+    <dimen name="earth_margin">20dp</dimen>
     <dimen name="icon_size">35dp</dimen>
 </resources>
